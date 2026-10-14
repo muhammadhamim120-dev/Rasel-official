@@ -6,3 +6,6 @@ screenshots
 backups
 # Facebook source URLs carry tracking tokens; keep provenance notes local
 media-sources.json
+
+# Local Netlify folder
+.netlify
