@@ -1,0 +1,8 @@
+node_modules
+dist
+.DS_Store
+.claude
+screenshots
+backups
+# Facebook source URLs carry tracking tokens; keep provenance notes local
+media-sources.json
